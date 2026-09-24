@@ -90,4 +90,4 @@ Webcam → YOLO Model → Object Detection → Bounding Boxes + Confidence Score
 
 GitHub: [Naveenkumarns0507](https://github.com/Naveenkumarns0507)
 
-LinkedIn: [Naveenkumar P]([https://www.linkedin.com/](https://www.linkedin.com/in/naveenkumar-s18/))
+LinkedIn: [Naveenkumar P](https://www.linkedin.com/in/naveenkumar-s18/)
